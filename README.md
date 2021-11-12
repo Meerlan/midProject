@@ -3,7 +3,7 @@
 
 
 ### screenshoots of project
-[Открыть список]()
+[click me](meerlan.github.io/midproject/)
 
 <img width="1003" alt="Снимокww" src="https://user-images.githubusercontent.com/75944814/141471970-8ed5fdb4-27e3-41b4-81cc-287f2216ea5d.PNG">
 
